@@ -1,4 +1,6 @@
 # Micro-Manager
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frjhall-eikontx%2Fmicro-manager.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frjhall-eikontx%2Fmicro-manager?ref=badge_shield)
+
 
 Micro-Manager is an application to control microscope hardware, such as cameras,
 xy-stages, filter wheels, etc. It includes a hardware abstraction layer written
@@ -49,3 +51,7 @@ https://micro-manager.org
 ## Contributing
 
 Start here: https://micro-manager.org/Building_and_debugging_Micro-Manager_source_code
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frjhall-eikontx%2Fmicro-manager.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frjhall-eikontx%2Fmicro-manager?ref=badge_large)
